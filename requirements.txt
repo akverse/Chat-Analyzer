@@ -4,7 +4,7 @@ seaborn
 urlextract
 wordcloud
 pandas
-emoji==2.14.1
+emoji
 pre-processor
 helper
 numpy
