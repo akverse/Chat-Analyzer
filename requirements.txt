@@ -9,4 +9,3 @@ pre-processor
 helper
 numpy
 nltk
-collections
