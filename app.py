@@ -7,7 +7,7 @@ import matplotlib.cm as cm
 import numpy as np
 
 
-st.sidebar.title("Whatsapp Chat Analyzer")
+st.sidebar.title("Chat Analyzer")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
